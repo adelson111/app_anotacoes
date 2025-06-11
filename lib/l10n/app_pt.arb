@@ -1,0 +1,28 @@
+{
+	"nomeApp": "Anotações",
+	"@nomeApp": {
+		"description": "Nome da aplicação"
+	},
+	"configuracao": "Configurações",
+	"gerenciarCategoria": "Gerenciar Categorias",
+    "idioma": "Idioma",
+    "tema": "Tema",
+    "padraoSistema": "Padrão do Sistema",
+    "idiomaPortugues": "Português",
+    "idiomaIngles": "Inglês",
+    "idiomaEspanhol": "Espanhol",
+    "temaClaro": "Claro",
+    "temaEscuro": "Escuro",
+    "cancelar": "Cancelar",
+    "salvar": "Salvar",
+    "cadastrar": "Cadastrar",
+    "selecioneOpcao": "Selecione uma opção",
+    "titulo": "Título",
+    "informarTitulo": "Informe o título",
+    "descricao": "Descrição",
+    "informarDescricao": "Informe a descrição",
+    "nome": "Nome",
+    "informarNome": "Informe o nome",
+    "listaVaziaCategoria": "Sem categorias cadastradas",
+    "listaVaziaAnotacoes": "Sem anotações cadastradas"
+}
